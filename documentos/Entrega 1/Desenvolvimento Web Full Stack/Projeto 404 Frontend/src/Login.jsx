@@ -16,19 +16,25 @@ function Login() {
   }
 
   const handleSubmit = async (e) =>{
-    e.preventDefault();
-    try{
-      const res = await axios.post("https://projeto404-site-backend.vercel.app/api/users/login", form);
-      console.log("Resposta do backend:",res.data)
-      
-      alert(res.data.msg)
+  e.preventDefault();
+  try{
+    const res = await axios.post("https://projeto404-site-backend.vercel.app/api/users/login", form);
+    console.log("Resposta do backend:", res.data);
+    
+    alert(res.data.msg);
 
-      navigate("/admin")
-    } catch(err){
-    console.error("Erro no login:", err.response?.data || err.message)
-    alert("Erro no login:"+(err.response?.data?.error || err.message))
+    // Armazena no localStorage
+    if(res.data.ID_Usuario){
+      localStorage.setItem("ID_Usuario", res.data.ID_Usuario);
+    }
+
+    navigate("/admin");
+  } catch(err){
+    console.error("Erro no login:", err.response?.data || err.message);
+    alert("Erro no login:"+(err.response?.data?.error || err.message));
   }
 }
+
 
   return (
     <div className="bodyImg"> 
