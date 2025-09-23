@@ -17,21 +17,19 @@ Lideranças Empáticas
 
 ## Integrantes: <a href="www.linkedin.com/in/igor-almeida-635656342">Igor Almeida</a>, <a href="https://www.linkedin.com/in/breno-groba/">Breno Frederico Gonzalez Groba</a>, <a href="https://www.linkedin.com/in/bruno-n%C3%B3brega-537376362/">Bruno Nóbrega do Espírito Santo</a>, <a href="https://www.linkedin.com/in/joao-victor-canello/">João Victor Canello Ferrian</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/katia-bossi/">Kátia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Correa Leite</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/j%C3%A9sus-gomes-83b769108/">Jésus Gomes</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2025-2-NCC2/Projeto2/blob/main/imagens/home_404.png" alt="TELA INICIAL" border="0">
+ Site By <a href="notfound404mail@gmail.com" >404 not found</a> / <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> CC BY-SA 3.0</a>
 </p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+           
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+Projetamos uma plataforma web desenvolvida para a organização estudantil "Lideranças Empáticas" da FECAP, com o objetivo de modernizar e potencializar suas ações sociais. A principal função do site é resolver a desconfiança e o baixo engajamento no processo de doação, oferecendo um ambiente digital que combina transparência radical com uma forte sensação de comunidade.
 <br><br>
-May the force be with you!
+Na prática, a plataforma funciona como um hub central onde os usuários podem doar, acompanhar o impacto das contribuições em tempo real através de dashboards interativos e interagir uns com os outros por meio de um chat integrado. Com isso, o sistema transforma o ato de ajudar de uma simples transação para uma experiência coletiva, transparente e humana.
 <br><br>
 
 ## 🛠 Estrutura de pastas
