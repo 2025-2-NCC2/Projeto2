@@ -15,7 +15,7 @@ Lideranças Empáticas
 ## Nome do Grupo
 404 not found
 
-## Integrantes: <a href="www.linkedin.com/in/igor-almeida-635656342">Igor Almeida</a>, <a href="https://www.linkedin.com/in/breno-groba/">Breno Frederico Gonzalez Groba</a>, <a href="https://www.linkedin.com/in/bruno-n%C3%B3brega-537376362/">Bruno Nóbrega do Espírito Santo</a>, <a href="https://www.linkedin.com/in/joao-victor-canello/">João Victor Canello Ferrian</a>
+## Integrantes: <a href="https://www.linkedin.com/in/igor-almeida-635656342/">Igor Almeida</a>, <a href="https://www.linkedin.com/in/breno-groba/">Breno Frederico Gonzalez Groba</a>, <a href="https://www.linkedin.com/in/bruno-n%C3%B3brega-537376362/">Bruno Nóbrega do Espírito Santo</a>, <a href="https://www.linkedin.com/in/joao-victor-canello/">João Victor Canello Ferrian</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/katia-bossi/">Kátia Milani Lara Bossi</a>, <a href="https://www.linkedin.com/in/cristina-machado-corr%C3%AAa-leite-630309160/">Cristina Machado Correa Leite</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/j%C3%A9sus-gomes-83b769108/">Jésus Gomes</a>
 
